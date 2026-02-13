@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AmantePeliculas</string>
+    <string name="titulo">XXX Reactivado</string>
+    <string name="puntuacion"> 9.1/10 </string>
+    <string name="vistas"> 890mi </string>
+    <string name="btn_renta"> Rentar </string>
+    <string name="btn_comprar"> Comprar </string>
+</resources>
